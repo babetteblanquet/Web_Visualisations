@@ -1,0 +1,51 @@
+.navbar-brand{
+        font-family: fantasy ;
+        font-size: xx-large;
+}
+
+.navbar-nav{
+        color: black;
+}
+
+.thumbnail {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.img-responsive{
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    float: left;   
+}
+
+#text{
+    float: left;
+    font-size: 14px;
+    padding-inline-start: 5px;
+    padding-top: 10px;
+}
+
+.visualisations{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.summary{
+    padding-top: 30px;
+}
+
+@media (max-width: 660px) {
+
+    #text {
+      margin-right: 30px;
+      margin-left: 30px;
+    }
+  
+    .thumbnail {
+    margin-right: 30px;
+    }
+  }
