@@ -1,17 +1,15 @@
 # Web_Visualisations
-A website has been built with HTML, CSS and Bootstrap
-
-This website has been deployed to GitHub pages on the link below:
+This website has been built with HTML, CSS and Bootstrap and has been deployed to GitHub pages on the link below:
 https://babetteblanquet.github.io/Web_Visualisations/index.html
 
-This website contains seven pages:
-  - Home page - index.html
+This website showcases an analysis on weather parameters vs city latitude. It includes seven pages:
+  - Home page - Summary - index.html
   - Max Temperature analysis - visualisation_1.html
   - Humidity analysis - visualisation_2.html
   - Cloudiness analysis - visualisation_3.html
   - Wind Speed analysis - visualisation_4.html
-  - Comparison analysis
-  - Data page that provides a table with all the data used to plot the charts.
+  - Comparison analysis - comparison.html
+  - Data table that provides all the data used to plot the charts - data.html
   
  You will find in the folder "Resources":
  - the images used for visualisations
