@@ -13,6 +13,6 @@ This website showcases an analysis on weather parameters vs city latitude. It in
   
  You will find in the folder "Resources":
  - the images used for visualisations
- - the data.csv file that has been converted to data.html using Pandas-Jupyter Notebook.
+ - the cities.csv file has been converted to data.html using Pandas-Jupyter Notebook.
  
  
